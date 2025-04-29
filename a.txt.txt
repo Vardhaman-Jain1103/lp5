@@ -1,0 +1,2 @@
+-fopenmp
+-static-libgcc
